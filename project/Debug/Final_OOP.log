@@ -1,0 +1,6 @@
+﻿  gameEngine.cpp
+C:\Users\peppa\source\repos\Final_OOP\gameEngine.h(29,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\peppa\source\repos\Final_OOP\gameEngine.cpp(25,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\peppa\source\repos\Final_OOP\gameEngine.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\peppa\source\repos\Final_OOP\gameEngine.cpp(166,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final_OOP.vcxproj -> C:\Users\peppa\source\repos\Final_OOP\Debug\Final_OOP.exe
